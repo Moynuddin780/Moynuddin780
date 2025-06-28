@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Moynuddin Al Masum<br>🎓 Final year ICT student at Bangladesh University of Professionals (BUP)<br>💻 Passionate about AI, Machine Learning, and Multilingual NLP<br>🧠 Researching language preservation through AI-based translation and correction systems for underrepresented languages like Chakma, Marma, and Garo
+👋 Hi, I'm Moynuddin Al Masum<br>🎓 Final year ICT student at Bangladesh University of Professionals (BUP)<br>💻 Passionate about AI, Machine Learning, and Multilingual NLP<br>🧠 Researching on Gestational Diabetes, COVID-19 detection with relevent 8 diseases and language preservation through AI-based translation and correction systems for underrepresented languages like Chakma, Marma, and Garo.
 
 
 # 💻 Tech Stack:
