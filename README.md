@@ -1,18 +1,109 @@
-# 💫 About Me:
-👋 Hi, I'm Moynuddin Al Masum<br>🎓 Final year ICT student at Bangladesh University of Professionals (BUP)<br>💻 Passionate about AI, Machine Learning, and Multilingual NLP<br>🧠 Researching on Gestational Diabetes, COVID-19 detection with relevent 8 diseases and language preservation through AI-based translation and correction systems for underrepresented languages like Chakma, Marma, and Garo.
+<h1 align="center">Hi 👋, I'm Moynuddin Al Masum</h1>
+<h3 align="center">AI/ML Engineer | Computer Vision | Deep Learning | NLP | Generative AI</h3>
 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Moynuddin780&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Moynuddin780&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Moynuddin780&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Moynuddin780&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+Passionate about building intelligent systems that solve real-world problems using Artificial Intelligence
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Moynuddin780&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+🎓 BSc in Information & Communication Engineering — Bangladesh University of Professionals  
+🤖 AI/ML Engineer focused on Computer Vision, NLP & Deep Learning  
+📍 Bangladesh  
+
+I design and build:
+- Real-time Detection Systems  
+- Smart Automation Tools  
+- Deep Learning Models  
+- AI Research-based Solutions  
+- End-to-End ML Pipelines (Training → Deployment)
+
+Currently working on Computer Vision, YOLO, LLMs, and RAG-based systems.
+
+---
+
+## 💻 Tech Stack
+
+### 🤖 AI • Machine Learning • Deep Learning
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+### 👁 Computer Vision
+![OpenCV](https://img.shields.io/badge/OpenCV-white?style=for-the-badge&logo=opencv&logoColor=black)
+![YOLO](https://img.shields.io/badge/YOLO-Object%20Detection-blue?style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+
+### 🧠 NLP • LLM • RAG
+![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLM-GenerativeAI-purple?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-VectorDB-orange?style=for-the-badge)
+
+### 🌐 Web & Deployment
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+
+### 🛠 Tools
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 🔥 Featured Projects
+
+### 🧠 Face Recognition Attendance System
+Real-time smart attendance using IP camera + face recognition  
+(OpenCV, Flask, Deep Learning)
+
+### 📱 Phone Usage Monitoring System
+Detects mobile usage & suspicious behavior from CCTV streams  
+(YOLO, ByteTrack, TensorRT)
+
+### 🥚 Poultry Egg Analyzer
+Egg detection, dirty egg classification, size & weight estimation  
+(YOLO, Computer Vision, Python)
+
+### 🗣 RAG University Chatbot
+University information chatbot with Retrieval-Augmented Generation  
+(LangChain, FAISS, LLMs)
+
+### 👥 People Flow Detection
+Crowd tracking + heatmap visualization using object tracking  
+(YOLOv8, ByteTrack)
+
+---
+
+## 📚 Publications
+
+• Multi-Agent Framework for Pediatric Pneumonia Diagnosis (Accepted)  
+• Hybrid Deep Learning Framework for Early Gestational Diabetes Prediction  
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Moynuddin780&theme=dark&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=Moynuddin780&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Moynuddin780&theme=dark&layout=compact)
+
+---
+
+## 🌐 Connect With Me
+
+📧 Email: moynuddinmasum708@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/moynuddin-al-masum-683102375?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
+💻 GitHub: https://github.com/Moynuddin780  
+
+---
+
+⭐ Turning ideas into intelligent AI solutions
